@@ -1,11 +1,5 @@
 # Transformer-Research-Neel-Gandhi-NeurIPS
 
-### Student - Neel Gandhi
-
-### Professor Soroush Vosoughi
-
-
-
 # **Interpreting reasoning behind language models for generating stereotypical text**
 
 In this research work, we aim to understand the mechanisms and underlying logic that lead language models to generate text that perpetuates stereotypes. By interpreting the reasoning behind the generation of stereotypical text by language models, we hope to shed light on the potential biases present in these models and identify potential avenues for mitigating them. This work is being conducted under the supervision of Professor Soroush Vosoughi
