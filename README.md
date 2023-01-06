@@ -1,4 +1,11 @@
-# Transformer-Research-Neel-Gandhi-NeurIPS
+# Transformer-Research-NeurIPS
+
+### Professor Soroush Vosoughi
+### Student - Neel Gandhi (MS CS)
+###                    Weicheng Ma (Phd CS)
+  
+
+
 
 # **Interpreting reasoning behind language models for generating stereotypical text**
 
