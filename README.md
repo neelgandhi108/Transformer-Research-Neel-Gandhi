@@ -1,4 +1,4 @@
-# Transfromer-Research-Winter2023
+# Transformer-Research-Neel-Gandhi-NeurIPS
 
 ### Student - Neel Gandhi
 
