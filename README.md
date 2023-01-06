@@ -1,8 +1,8 @@
 # Transformer-Research-NeurIPS
 
 ### Professor Soroush Vosoughi
-### Student - Neel Gandhi 
-###           Weicheng Ma
+### Student - Neel Gandhi (MS CS)
+###                    Weicheng Ma (Phd CS)
   
 
 
